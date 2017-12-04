@@ -7,4 +7,5 @@ This issue was resolved with the release of MS12-025. It appears the fix was par
 
 See also:
 https://securify.nl/advisory/SFY20110801/_net-framework-encoderparameter-integer-overflow-vulnerability.html
+
 https://securify.nl/en/blog/SFY20150401/tales-from-the-crypt_-exploiting-the-_net-encoderparameter-integer-overflow-vulnerability.html

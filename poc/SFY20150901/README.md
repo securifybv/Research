@@ -5,5 +5,7 @@ There is currently no fix available, HP reports: "Unfortunately, the driver soft
 
 See also:
 https://securify.nl/en/advisory/SFY20150901/leadtools-activex-control-multiple-dll-side-loading-vulnerabilities.html
+
 https://securify.nl/en/advisory/SFY20150902/hp-tocommsg-dll-side-loading-vulnerability.html
+
 https://securify.nl/en/advisory/SFY20150903/hp-laserjet-fax-preview-dll-side-loading-vulnerability.html
